@@ -1,4 +1,4 @@
-# evoBoids_V2
+# optiBoids (Optimization Boids)
 
 Project based on [this software](https://github.com/david1309/evoBoids) and [this paper](http://ieeexplore.ieee.org/document/7850281/) in which a virtual swarm  is modeled based on the [Boids equations](http://www.red3d.com/cwr/boids/) in which each agent is simulated as a point particle. This project explores how to optimize the behavior of the swarm through alternative optimization algorithms such as Evolution strategy, Neuroevolution or Reinforcement Learning; different from the ones originally used in the past project (which were a Standard Genetic Algorithm)
 
