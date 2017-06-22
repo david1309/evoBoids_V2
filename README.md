@@ -4,7 +4,9 @@ Project based on [this software](https://github.com/david1309/evoBoids) and [thi
 
 ---
 ## Past project Video Results:
-Here you can check the simulation, evolution, and robotic control of the past project
+
+![Here you can check the simulation, evolution, and robotic control of the past project](https://github.com/david1309/optiBoids/blob/master/boids_screenshot_readme.png)
+
 
 * [Boids Model and Python Simulation](https://www.youtube.com/watch?v=r-TQU_iUsZc)
 * [Evolution of Boids](https://www.youtube.com/watch?v=AS0NjwAux8k)
